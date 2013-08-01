@@ -1,0 +1,8 @@
+Comoiled
+
+KUBUNTU 12.04 LTS
+
+CMake 2.8.7
+
+Qt 4.8.0
+
